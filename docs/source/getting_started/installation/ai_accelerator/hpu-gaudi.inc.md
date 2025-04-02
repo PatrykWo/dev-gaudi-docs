@@ -145,7 +145,7 @@ If you are facing the following error: `docker: Error response from daemon: Unkn
 - Quantization
 - Prefill chunking (mixed-batch inferencing)
 
-## Supported configurations
+## Validated models and configurations
 
 The following configurations have been validated to function with
 Gaudi2 or Gaudi3 devices. Configurations that are not listed may or may not work.
