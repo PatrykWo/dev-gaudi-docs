@@ -218,6 +218,11 @@ See [this page](#generative-models) for more information on how to use generativ
   * `baichuan-inc/Baichuan2-13B-Chat`, `baichuan-inc/Baichuan-7B`, etc.
   * ✅︎
   * ✅︎
+- * `BambaForCausalLM`
+  * Bamba
+  * `ibm-ai-platform/Bamba-9B-fp8`, `ibm-ai-platform/Bamba-9B`
+  *
+  *
 - * `BloomForCausalLM`
   * BLOOM, BLOOMZ, BLOOMChat
   * `bigscience/bloom`, `bigscience/bloomz`, etc.
@@ -503,6 +508,11 @@ See [this page](#generative-models) for more information on how to use generativ
   * `xverse/XVERSE-7B-Chat`, `xverse/XVERSE-13B-Chat`, `xverse/XVERSE-65B-Chat`, etc.
   * ✅︎
   * ✅︎
+- * `MiniMaxText01ForCausalLM`
+  * MiniMax-Text
+  * `MiniMaxAI/MiniMax-Text-01`, etc.
+  *
+  * ✅︎
 - * `Zamba2ForCausalLM`
   * Zamba2
   * `Zyphra/Zamba2-7B-instruct`, `Zyphra/Zamba2-2.7B-instruct`, `Zyphra/Zamba2-1.2B-instruct`, etc.
@@ -566,7 +576,7 @@ you should explicitly specify the task type to ensure that the model is used in 
   *
 - * `XLMRobertaModel`
   * XLM-RoBERTa-based
-  * `intfloat/multilingual-e5-large`, etc.
+  * `intfloat/multilingual-e5-large`, `jinaai/jina-reranker-v2-base-multilingual`, etc.
   *
   *
 :::
@@ -750,6 +760,13 @@ See [this page](#generative-models) for more information on how to use generativ
   * Aria
   * T + I<sup>+</sup>
   * `rhymes-ai/Aria`
+  *
+  * ✅︎
+  * ✅︎
+- * `AyaVisionForConditionalGeneration`
+  * Aya Vision
+  * T + I<sup>+</sup>
+  * `CohereForAI/aya-vision-8b`, `CohereForAI/aya-vision-32b`, etc.
   *
   * ✅︎
   * ✅︎
